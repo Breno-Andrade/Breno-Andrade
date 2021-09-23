@@ -28,7 +28,6 @@
 
 <div>
     <a href="https://github.com/Breno-Andrade">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&count_private=true&all_commits=true&hide_title=0"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&count_private=true&all_commits=true&"/>
+    <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark&langs_count=16"/> 
 </div>
-
