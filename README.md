@@ -1,5 +1,10 @@
 
 # Ola! Eu sou o Breno Andrade😎 
+<div align="center">
+  <a href="https://github.com/Breno-Andrade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ## Redes sociais: 📸
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bre_nou/)
@@ -25,8 +30,3 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-<div align="center">
-  <a href="https://github.com/Breno-Andrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
