@@ -1,9 +1,9 @@
 
 # Ola! Eu sou o Breno Andrade😎 
-<div>
+<div >
   <a href="https://github.com/Breno-Andrade">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark"/>
+  <img width="480px" src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark"/>
 </div>
   
 ## Redes sociais: 📸
