@@ -1,12 +1,25 @@
 
-# Ola! Eu sou o Breno Andrade😎 
+<h1 align = "center"> Ola! Eu sou o Breno Andrade😎 </h1>
 
-<div>
+<div align = "center">
+<img height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+<div align = "center">
 	<a href="https://github.com/Breno-Andrade">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark"/></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark"/>
+</div>
 
-## Redes sociais: 📸
 
+
+
+
+<h2> Redes sociais: 📸</h2>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bre_nou/)
 [![Git-Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Breno-Andrade)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Breno-Andrade/)
