@@ -5,7 +5,7 @@
 <h2>Sobre mim: 🤖</h2>
 <p>Me chamo Breno Andrade da Silva, tenho 19 anos e sou de Suzano/SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia Estadual - Mogi das Cruzes (Fatec-MC), onde estou atualmente no quinto semestre.</p>
 <h2>Sobre minha vida acadêmica: 📒</h2>
-<p> Iniciei os estudos nessa área motivado pela paixão em jogos eletrônicos que aos 14 anos me despertou a curiosidade para aprender sobre hardwares e softwares. Essa curiosidade logo veio a evoluir, então apaixonado por essa área parti para descobrir um novo universo que logo se mostrou incrível, o universo da programação.</p>
+<p> Iniciei os estudos nessa área motivado pela paixão em jogos eletrônicos que aos 14 anos me despertou a curiosidade para aprender sobre hardwares e softwares. Apaixonado por essa área parti para descobrir um novo universo que logo se mostrou incrível, o universo da programação.</p>
 <img height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
