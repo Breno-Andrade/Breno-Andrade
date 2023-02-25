@@ -12,8 +12,8 @@
 
 <div align = "center">
 <h2> Redes sociais: 📸</h2>
-<a href="https://www.instagram.com/bre_nou"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/Breno-Andrade"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/bre_nou" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/Breno-Andrade" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <div align = "center">
