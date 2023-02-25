@@ -1,10 +1,10 @@
 
-<h1 align = "center"> Ola! Seja bem vindo ao meu perfil!😎 </h1>
+<h1 align = "center"> Olá! Seja bem vindo ao meu perfil!😎 </h1>
 
 <div align = "center">
 <h2>Sobre mim: 🤖</h2>
 <p>Me chamo Breno Andrade da Silva, tenho 19 anos e sou de Suzano/SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia Estadual - Mogi das Cruzes (Fatec-MC), onde estou atualmente no quinto semestre.</p>
-<h2>Sobre minha vida acadêmica: 📒</h2>
+<h2>Minha vida acadêmica: 📒</h2>
 <p> Iniciei os estudos nessa área motivado pela paixão em jogos eletrônicos que aos 14 anos me despertou a curiosidade para aprender sobre hardwares e softwares. Apaixonado por essa área parti para descobrir um novo universo que logo se mostrou incrível, o universo da programação.</p>
 <img height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />         
