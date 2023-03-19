@@ -17,7 +17,7 @@
 </div>
 
 <div align = "center">
-<h2>Informações Repositório: 💻</h2>
-<a href="https://github.com/Breno-Andrade">
-<img src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark"/>
+  <h2>Informações Repositório: 💻</h2>
+  <a href="https://github.com/Breno-Andrade">
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   <img height = "160em"	src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark"/>
 </div>
