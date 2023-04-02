@@ -11,6 +11,7 @@
   <img height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
          
   
 </div>
