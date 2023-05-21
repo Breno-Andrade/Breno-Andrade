@@ -1,13 +1,13 @@
 <div align = "center">
   <h1 align = "center"> Olá! Seja bem vindo ao meu perfil!😎 </h1>
   <h2> Redes sociais: 📸</h2>
-  <a href="https://www.linkedin.com/in/breno-andrade-dev/"  target="_blank">
+  <a href="https://www.linkedin.com/in/breno-andrade-dev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/bre_nou"  target="_blank">
+  <a href="https://www.instagram.com/bre_nou" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://github.com/Breno-Andrade"  target="_blank">
+  <a href="https://github.com/Breno-Andrade" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
@@ -49,5 +49,7 @@
 <div align = "center">
   <h2>Informações Repositório: ℹ</h2>
   <a href="https://github.com/Breno-Andrade">
-  <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height = "160em"	src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark"/>
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height = "160em"	src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Andrade&layout=compact&theme=dark"/>
+  </a>
 </div>
