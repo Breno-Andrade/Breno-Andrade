@@ -1,7 +1,7 @@
 <div align = "center">
   <h1 align = "center"> Olá! Seja bem vindo ao meu perfil!😎 </h1>
   <h2> Redes sociais: 📸</h2>
-  <a href="">
+  <a href="https://www.linkedin.com/in/breno-andrade-dev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/bre_nou">
