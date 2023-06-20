@@ -37,13 +37,6 @@
 </div>
 
 <div align = "center">
-  <h2> Tecnologias que ja tive contato: 💻</h2>
-  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="80" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
-
-<div align = "center">
   <h2>Informações Repositório: ℹ</h2>
   <a href="https://github.com/Breno-Andrade">
     <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=Breno-Andrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
