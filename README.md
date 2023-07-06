@@ -16,7 +16,7 @@
 
 <div align = "center">
   <h2>Minha vida acadêmica: 📒</h2>
-  <p> Iniciei os estudos nessa área motivado pelos jogos eletrônicos que aos 14 anos me despertaram a curiosidade necessaria para todo profissional de TI. Apaixonado por essa área, parti para descobrir um novo universo que se mostrou incrível, o universo da programação.</p>
+  <p> Iniciei os estudos nessa área motivado pelos jogos eletrônicos que aos 14 anos me despertaram a curiosidade necessaria para todo profissional de TI. Apaixonado por essa área, parti para conhecer um novo universo que se mostrou incrível, o universo da programação.</p>
 </div>
 
 <div align = "center">
