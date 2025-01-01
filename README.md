@@ -14,7 +14,7 @@
 </div>
 
 <div align = "center">
-  <h2>Stack de Conhecimento.</h2>
+  <h2>Linguagens e Frameworks.</h2>
   <img width="80" height="60" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="80" height="60" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="80" height="60" title="BOOTSTRAP5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -24,8 +24,6 @@
   <img width="80" height="60" title="LARAVEL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img width="80" height="60" title="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img width="80" height="60" title="SPRING" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img width="80" height="60" title="POSTGRESQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img width="80" height="60" title="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <div align = "center">
