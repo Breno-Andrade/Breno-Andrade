@@ -14,7 +14,7 @@
 </div>
 
 <div align = "center">
-  <h2>Stack de conhecimento.</h2>
+  <h2>Stack de Conhecimento.</h2>
   <img width="80" height="60" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="80" height="60" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="80" height="60" title="BOOTSTRAP5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
